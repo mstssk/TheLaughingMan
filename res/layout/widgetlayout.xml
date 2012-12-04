@@ -1,0 +1,9 @@
+<LinearLayout android:layout_width="wrap_content" android:orientation="vertical"
+	android:layout_height="wrap_content" android:layout_gravity="center"
+	xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/widgetlayout">
+<ImageView android:id="@+id/widgetview" android:scaleType="center"
+	android:layout_width="wrap_content" android:layout_height="wrap_content" 
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:src="@drawable/c00"><!-- android:paddingLeft="8dp" -->
+</ImageView>
+</LinearLayout>
